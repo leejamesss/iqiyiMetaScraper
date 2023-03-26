@@ -1,4 +1,4 @@
-# iqiyiMetaScraper
+# iqiyiMetaScrapy
 爬取爱奇艺网站的元数据（以狂飙为例）
 # PKU InforOrg IM Class
 #北京大学信息组织课程元数据环节
